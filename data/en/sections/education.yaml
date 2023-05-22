@@ -10,11 +10,11 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ingénieur en onformatique pour la santé
+- name: Ingénieur en informatique pour la santé
   icon: fa-microscope
   timeframe: 2020-2023
   institution:
-    name: École d'ingénieur ISIS
+    name: École d'ingénieurs ISIS
     url: "https://isis.univ-jfc.fr/"
   # 
   
