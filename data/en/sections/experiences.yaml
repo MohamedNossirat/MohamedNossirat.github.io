@@ -11,54 +11,35 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Clarisys Informatique.
+    url: "https://www.clarisys.fr"
+    location: Toulouse France
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    # overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Ingénieur en informatique (Alternant)
+    start: Nov 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
+    - Concéption du module GMAO permettant la gestion des interventions de maintenance pour les laboratoire d'analyse médicale.
+    - Intégration d'API tierces telles que FHIR et HL7 pour faciliter l'échange de données transparent entre différents systèmes de santé et garantir la conformité aux normes de l'industrie.
+    - Collaboration avec une équipe pluridisciplinaire de professionnels de la santé, de concepteurs UX et d'ingénieurs QA pour garantir la livraison de solutions logicielles de haute qualité.
+    - Réalisation de revues de code et mise en place des meilleures pratiques pour améliorer la qualité, la maintenabilité et la scalabilité du code.
+    - Participation à des processus de développement Agile, notamment des réunions quotidiennes, des planifications de sprint et des rétrospectives, afin de livrer des projets dans les délais et le budget impartis.
+    
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Centre hospitalier Châteaubriant
+    url: "https://www.ch-cnp.fr"
+    location: Châteaubriant France
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Assistant DSIH
+    start: Nov 2020
+    end: Nov 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Création d'une application web afin d'rganiser des simulations de phishing contrôlées pour évaluer la vigilance des employés. Envoyez de faux e-mails de phishing et suivez les réponses des employés.
+    - Utiliser ces simulations comme une opportunité d'apprentissage pour identifier les domaines où une formation supplémentaire est nécessaire.
+    - Formation continue et proposer des formations en ligne ou en personne sur des sujets spécifiques de cybersécurité, tels que l'identification des e-mails de phishing, la gestion des mots de passe ou la protection des informations sensibles.
+    - Mise en place d'outils de visualisation des données pour fournir des informations et des analyses exploitables aux prestataires de soins de santé, améliorant ainsi les processus de prise de décision et les résultats des patients.
